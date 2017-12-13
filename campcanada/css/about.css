@@ -1,0 +1,194 @@
+ body {
+margin:auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+
+nav {
+
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #D7D7D7;
+  }
+
+ul {
+  font-family: Arial Black;
+  font-weight: bolder;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+            }
+  ul li {
+    display: block;
+    position: relative;
+    float: right;
+            }
+
+            h1 {
+              font-family: arial black;
+              font-size: 50px;
+              text-align: right;
+              padding-right: 7cm;
+              text-decoration: underline;
+              text-decoration-color: red;
+          }
+
+   /*div p {
+     font-family: Corbel ;
+     font-size: 19px ;
+     text-align: left;
+     padding-left: 26cm;
+     color: #000000;
+   }*/
+
+   footer {
+
+
+    width: 100%;
+    background-color: #D0D0D0;
+    color: 	#696969;
+}
+
+.imgAbout{
+  width:100%;
+}
+
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+div p {
+  font-family: arial;
+  font-size: 22px;
+  font-family: arial;
+}
+
+footer h5{
+  text-align: right;
+
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+    display: table;
+    clear: both;
+}
+.about{
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+/* Create three equal columns that floats next to each other */
+.column1 {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 150px; 
+    text-align: center;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.button {
+    background-color: #EE5050; /* red */
+    border: 10cm;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #F72222;
+    color: white;
+    border: 2px solid #EE5050;
+}
+
+.button1:hover {
+    background-color: #F38686;
+    color: white;
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+h4 {
+  padding-top: 1cm;
+}
+
+.followus {
+  color: #737373;
+  font-family: arial;
+}
